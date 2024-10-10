@@ -19,8 +19,8 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | mediagram",
-    default: "mediagram",
+    template: "%s | Sakume",
+    default: "Sakume",
   },
   description: "The social media app for powernerds",
 };
